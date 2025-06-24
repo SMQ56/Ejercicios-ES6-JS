@@ -35,4 +35,4 @@ const {name: carName, itv } = car;
 
 const [year1, year2, year3] = itv;
 
-console.log(carName, year1, year2, year3); 
+console.log(carName, year1, year2, year3);
